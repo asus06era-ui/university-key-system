@@ -2,7 +2,7 @@
 
 **5-зертханалық жұмыс:** Git және GitHub көмегімен ақпараттық жүйе жобасын басқару.
 
-**Технология:** Microsoft SQL Server (T-SQL), SQL Server Management Studio (SSMS), Git және GitHub. Python, MySQL, сабақ кестесі модулі қолданылмайды.
+**Технология:** Microsoft SQL Server (T-SQL), SQL Server Management Studio (SSMS), Git және GitHub. Python, MySQL.
 
 ## Жоба
 Жүйе университет кабинеттерінің кілтін күзетші арқылы оқытушыға беруді және қайтаруды тіркейді. Дерекқорда персонал, кабинеттер, кілттер, беру/қайтару операциялары және аудит журналы сақталады.
@@ -33,10 +33,6 @@ SELECT TOP (20) * FROM dbo.key_audit ORDER BY id DESC;
 SELECT * FROM dbo.v_key_status;
 SELECT * FROM dbo.v_issuance_history;
 ```
-
-## Git/GitHub (5-зертханалық жұмыс)
-ZIP ішінде **нақты жергілікті Git тарихы**, 5 commit, екі тармақ (`main`, `feature/sql-reports`) және editable draw.io сызбалар бар. ZIP ашылғандағы белсенді тармақ — `feature/sql-reports`, сондықтан `04_reports.sql` де бірден көрінеді.
-**GitHub репозиторийі, 3 Issue, Pull Request және merge әзірше онлайн жасалмаған.** Өз аккаунтыңызда орындау қадамдары: [docs/github-steps.md](docs/github-steps.md).
 
 ## Файлдар
 ```text
