@@ -3,7 +3,7 @@ BEGIN
     CREATE DATABASE university_key_system_kz;
 END;
 GO
-
+--oooooooooooo
 USE university_key_system_kz;
 GO
 
