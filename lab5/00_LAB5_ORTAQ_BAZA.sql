@@ -501,4 +501,3 @@ FROM dbo.kilt_amal_tarihy
 GROUP BY amal_turi
 ORDER BY amal_turi;
 GO
---еуые
