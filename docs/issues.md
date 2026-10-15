@@ -9,4 +9,4 @@
 ## Issue 3 — SQL Server резервтік көшіру
 **Сипаттама:** SQL Server-де толық BACKUP және RESTORE жоспарын анықтап, нұсқаулық дайындау. **Label:** enhancement.
 
-Бұл Issue жазбалары GitHub-та әзірше ашылған жоқ. Жоба жүктелген соң әрқайсын Issues → New issue арқылы жасаңыз.
+Бұл Issue жазбалары GitHub-та әзірше ашылған жоқ. 
