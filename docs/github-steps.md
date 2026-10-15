@@ -34,10 +34,6 @@ git pull origin main
 git log --oneline --all --graph --decorate
 ```
 
-## 7. SSMS-та нәтижені тексеру
-SQL файлдарын осы ретпен орындаңыз: `00_schema.sql` → `01_seed.sql` → `02_procedures.sql` → `03_demo.sql` → `04_reports.sql`. Әр файлды SSMS-та `File → Open → File` арқылы ашыңыз және F5 басыңыз. `Object Explorer` арқылы `Databases → university_key_system` көрінетінін тексеріңіз.
 
-## 8. Дәлел скриншоттар
-Word есебіне өз GitHub репозиторий беті, commit тарихы (кемінде 3), 2 branch, 3 Issue, `Merged` Pull Request және SSMS-та SQL орындалу терезесінің скриншоттарын қосыңыз.
 
-**Ескерту:** дайын ZIP GitHub-тағы Issue/PR/merge қадамдарын автоматты түрде орындамайды. Оларды аккаунтыңызда шынайы жасаңыз.
+
