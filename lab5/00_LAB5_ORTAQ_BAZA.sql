@@ -1,17 +1,4 @@
-﻿-- Universitet kabinetterinin kiltin beru zhane kaitaru zhuiesi
--- SSMS ushin barlygy bir failda. F5 basyp tolyk oryndauga bolady.
--- Eskertu: university_key_system_kz atty ZHANA derekkor kurady.
--- Buryngy university_key_system derekkory ozgermeidi.
-
--- =============================================================
--- UNIVERSITET KABINETTERININ KILTIN BERU ZHANE KAITARU ZHUIESI
--- SQL Server (SSMS / T-SQL)
--- ATAULAR: KAZAKSHA SOZDER, LATYN ARIPTERI
--- =============================================================
--- Eskertu: bul skript buryngy university_key_system bazasyn ozgertpeidi.
--- Zhana database: university_key_system_kz
-
-IF DB_ID(N'university_key_system_kz') IS NULL
+﻿IF DB_ID(N'university_key_system_kz') IS NULL
 BEGIN
     CREATE DATABASE university_key_system_kz;
 END;
